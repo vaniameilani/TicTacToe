@@ -12,4 +12,5 @@ Gamabr diatas, pemain memilih urutan pertama. Setelah itu, komputer akan menampi
 
 ![ttt2](https://user-images.githubusercontent.com/61219556/78860224-d73e0500-7a5b-11ea-8a95-85f107eb37cd.PNG)
 
-Proses tersebut terus berlanjut hingga muncul terdapat salah satu pemain yang memenangkan permainan tersebut.
+Proses tersebut terus berlanjut seperti gambar diatas, hingga salah satu pemain memenangkan permaianan tersebut.
+~
