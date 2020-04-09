@@ -8,4 +8,8 @@ sesuai dengan urutan permainan ticatctoe. Untuk pemain / orang bertanda silang '
 
 ![ttt](https://user-images.githubusercontent.com/61219556/78860071-6f87ba00-7a5b-11ea-9391-209425aed02b.PNG)
 
+Gamabr diatas, pemain memilih urutan pertama. Setelah itu, komputer akan menampilkan kotak permainan dan mengisi inputan yang dituju untuk nomor kotak tictactoe. Setelah memilih kotak, komputer akan menampilkan pengisian simbo di kotak yang ia pilih.
 
+![ttt2](https://user-images.githubusercontent.com/61219556/78860224-d73e0500-7a5b-11ea-8a95-85f107eb37cd.PNG)
+
+Proses tersebut terus berlanjut hingga muncul terdapat salah satu pemain yang memenangkan permainan tersebut.
